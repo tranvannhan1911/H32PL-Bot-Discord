@@ -1,0 +1,1 @@
+CF_HANDLE = "codeforce_handle"
